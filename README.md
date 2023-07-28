@@ -1,3 +1,11 @@
+node-api-lmdb
+=========
+
+The objective of this fork is to create a new baseline based on the Node-API
+
+Original
+=========
+
 node-lmdb
 =========
 
